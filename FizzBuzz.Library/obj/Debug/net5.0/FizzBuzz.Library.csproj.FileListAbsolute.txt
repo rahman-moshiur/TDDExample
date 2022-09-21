@@ -1,0 +1,12 @@
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\bin\Debug\net5.0\FizzBuzz.Library.deps.json
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\bin\Debug\net5.0\FizzBuzz.Library.dll
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\bin\Debug\net5.0\FizzBuzz.Library.pdb
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\obj\Debug\net5.0\FizzBuzz.Library.csproj.AssemblyReference.cache
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\obj\Debug\net5.0\FizzBuzz.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\obj\Debug\net5.0\FizzBuzz.Library.AssemblyInfoInputs.cache
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\obj\Debug\net5.0\FizzBuzz.Library.AssemblyInfo.cs
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\obj\Debug\net5.0\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\obj\Debug\net5.0\FizzBuzz.Library.dll
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\obj\Debug\net5.0\refint\FizzBuzz.Library.dll
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\obj\Debug\net5.0\FizzBuzz.Library.pdb
+C:\Users\rahmmos\source\repos\TDDPracticeProject\FizzBuzz.Library\obj\Debug\net5.0\ref\FizzBuzz.Library.dll
